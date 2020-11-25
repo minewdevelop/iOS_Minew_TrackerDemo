@@ -1,0 +1,20 @@
+PODS:
+  - MTTrackKit (1.0.0)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - MTTrackKit
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - MTTrackKit
+    - SnapKit
+
+SPEC CHECKSUMS:
+  MTTrackKit: eb2afa74575f2225686fe2877481217bc4def37b
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: a314c5cc29c297a0bf421ce421d336484e61c496
+
+COCOAPODS: 1.10.0
